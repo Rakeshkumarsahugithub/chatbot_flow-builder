@@ -24,7 +24,7 @@ A drag-and-drop workflow builder that lets you create message flows visually. Bu
 
 ## Try It Out 🌐
 
-[Live Demo](https://chatbot-flow-builder-87k7.vercel.app) *(Add your actual deployment link)*
+[Live Demo](https://chatbot-flow-builder-87k7.vercel.app) *(Click on Live Demo)*
 
 ## Installation 💻
 
@@ -40,23 +40,37 @@ npm install
 
 # Start development
 npm run dev
+```
+## How It Works 🔧
+### Add Nodes
+1. Browse Available Nodes
+ - In the right sidebar, you'll see all available node types (currently just Message nodes)
 
-How It Works 🔧
-Add Nodes
-Click any node type in the panel to add it to the canvas
+2. Click to Add
+ - Simply click on any node type - it will automatically appear on the canvas at a random position
+(No drag-and-drop required - we simplified this interaction!)
 
-Connect Nodes
-Drag from a node's handle (right side) to another node's handle (left side)
+3. See It Appear
+The new node will:
 
-Edit Content
-Click any node to edit its text in the settings panel
+ - Have default text ("Text Message")
 
-Save Flow
-Click "Save Changes" to validate and save your workflow
+ - Show connection handles (⚫ on left and right)
 
-Validation Rules ⚖️
-✅ All nodes must be connected (except one endpoint)
+ - Be ready to connect to other nodes
 
-❌ No empty message nodes allowed
+ ### Connect Nodes
+ - Drag from a node's handle (right side) to another node's handle (left side)
 
-🔗 Source handles can only have one connection
+ ### Edit Content
+ - Click any node to edit its text in the settings panel
+
+ ### Save Flow
+ - Click "Save Changes" to validate and save your workflow
+
+ ## Validation Rules ⚖️
+ - ✅ All nodes must be connected (except one endpoint)
+
+ - ❌ No empty message nodes allowed
+
+ - 🔗 Source handles can only have one connection
