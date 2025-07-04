@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Flow](https://img.shields.io/badge/React_Flow-38B2AC?style=for-the-badge&logo=react&logoColor=white)
 
-A drag-and-drop workflow builder that lets you create message flows visually. Built with pure JavaScript and React Flow for maximum compatibility.
+A powerful and intuitive drag-and-drop workflow builder that enables users to create and manage message flows visually. Built with React and React Flow, this application is designed for maximum compatibility,
 
 ![image](https://github.com/user-attachments/assets/4ef29c52-e944-4b8f-8ebf-6f811c82465f)
 
