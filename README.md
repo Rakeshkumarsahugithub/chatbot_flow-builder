@@ -24,7 +24,7 @@ A drag-and-drop workflow builder that lets you create message flows visually. Bu
 
 ## Try It Out 🌐
 
-[Live Demo](https://chatbot-flow-builder-87k7.vercel.app) *(Click on Live Demo)*
+[Live Demo](https://chatbot-flow-builder-87k7.vercel.app) *(Click on it for Live Demo)*
 
 ## Installation 💻
 
