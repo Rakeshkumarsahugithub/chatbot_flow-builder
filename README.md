@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Flow](https://img.shields.io/badge/React_Flow-38B2AC?style=for-the-badge&logo=react&logoColor=white)
 
-A powerful and intuitive drag-and-drop workflow builder that enables users to create and manage message flows visually. Built with React and React Flow, this application is designed for maximum compatibility,
+A powerful and intuitive drag-and-drop workflow builder that enables users to create and manage message flows visually. Built with React and React Flow, it offers a smooth, modular experience ideal for chatbot builders, automation tools, or decision trees.
 
 ![image](https://github.com/user-attachments/assets/4ef29c52-e944-4b8f-8ebf-6f811c82465f)
 
@@ -13,14 +13,17 @@ A powerful and intuitive drag-and-drop workflow builder that enables users to cr
 
 ### Core Functionality
 - **📌 Message Nodes** - Create and connect text message nodes
-- **🧩 Drag-and-Drop** - Intuitive node placement
+- **🔗 Connectors** – Visually link nodes to define flow paths
+- **🧲  Drag-and-Drop** - Smooth and interactive node movement
 - **🔌 Smart Connections** - Visual handles for node linking
+- **📎 Flow Validation** – Prevent saving incomplete or disconnected flows
+-  
 
 ### User Experience
-- **✏️ Real-Time Editing** - Change node text instantly
+- **✏️ Inline Node Editing** – Edit node messages in a side panel
 - **📱 Mobile Responsive** - Works on all devices
 - **💾 One-Click Save** - With proper flow validation
-- **🔔 Notifications** - Visual feedback for actions
+- **🔔 Toast Notifications** – Visual feedback on save success or validation errors
 
 ## Try It Out 🌐
 
